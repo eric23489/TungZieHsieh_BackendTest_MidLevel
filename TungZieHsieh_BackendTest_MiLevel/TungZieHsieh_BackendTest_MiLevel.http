@@ -1,0 +1,6 @@
+@TungZieHsieh_BackendTest_MiLevel_HostAddress = http://localhost:5121
+
+GET {{TungZieHsieh_BackendTest_MiLevel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
